@@ -10,5 +10,5 @@ Significan files:
                  |_ images/ <- Directory containing static images used within the webpage
  
  Mockup:
- 
+ ![alt text](https://github.com/jypara-git/HoriseonWebpage/blob/main/mockup.png)
  
